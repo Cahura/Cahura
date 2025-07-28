@@ -8,6 +8,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,5&height=200&section=header&text=Electronic%20Engineer&fontSize=60&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Hardware%20•%20Software%20•%20Innovation&descSize=20&descAlignY=55" />
 </div>
 
+<div align="center">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🇪🇸_Español-FFD700?style=for-the-badge&logoColor=black&labelColor=1a1a1a" alt="Español" />
+  </a>
+  <a href="README_EN.md">
+    <img src="https://img.shields.io/badge/🇺🇸_English-1a1a1a?style=for-the-badge&logoColor=FFD700&labelColor=0d1117" alt="English" />
+  </a>
+</div>
+
+---
+
 ## � Sobre Mí
 
 <img align="right" alt="Engineering GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />

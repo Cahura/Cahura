@@ -44,10 +44,12 @@ Estudiante de **Ingeniería Electrónica** en la **Universidad Peruana de Cienci
 <img src="https://img.shields.io/badge/Ver%20Proyecto-FFD700?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p><strong>Stack:</strong> Verilog, C/C++, FPGA, DSP</p>
+<p><strong>Stack:</strong> VHDL, C, FPGA Cyclone II, Nios II, UART</p>
 <p>📡 Sistema completo de síntesis digital directa<br>
-⚡ Generación de señales de alta precisión<br>
-🎯 Control programable de frecuencia y fase</p>
+⚡ Generación de señales de alta precisión (10 bits)<br>
+🎯 Control programable de frecuencia y fase<br>
+🔧 Procesador embebido Nios II integrado<br>
+📊 3 formas de onda: Senoidal, Triangular, Diente de Sierra</p>
 </div>
 </td>
 <td width="50%">
@@ -61,10 +63,11 @@ Estudiante de **Ingeniería Electrónica** en la **Universidad Peruana de Cienci
 <img src="https://img.shields.io/badge/Ver%20Proyecto-FFD700?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p><strong>Stack:</strong> React Native, Node.js, MongoDB, GPS</p>
+<p><strong>Stack:</strong> Angular 20, TypeScript, Node.js, WebSocket</p>
 <p>📍 Seguimiento GPS en tiempo real<br>
-📱 Aplicación móvil intuitiva<br>
-🔔 Sistema de notificaciones inteligentes</p>
+🌐 Aplicación web moderna con Angular<br>
+🔔 Sistema de comunicación WebSocket<br>
+📊 Analytics y métricas de actividad</p>
 </div>
 </td>
 </tr>
@@ -107,32 +110,42 @@ Estudiante de **Ingeniería Electrónica** en la **Universidad Peruana de Cienci
 <div align="center">
 
 ### 💻 Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![VHDL](https://img.shields.io/badge/VHDL-1a1a1a?style=for-the-badge&logo=vhdl&logoColor=FFD700)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![Assembly](https://img.shields.io/badge/Assembly-1a1a1a?style=for-the-badge&logo=assembly&logoColor=FFD700)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-1a1a1a?style=for-the-badge&logo=verilog&logoColor=FFD700)
 
 ### 🔌 Hardware & Sistemas Embebidos
+![FPGA Cyclone II](https://img.shields.io/badge/FPGA%20Cyclone%20II-1a1a1a?style=for-the-badge&logo=intel&logoColor=FFD700)
+![Nios II](https://img.shields.io/badge/Nios%20II-00599C?style=for-the-badge&logo=intel&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi%205-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![PIC18F47Q43](https://img.shields.io/badge/PIC18F47Q43-FF6600?style=for-the-badge&logo=microchip&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-1a1a1a?style=for-the-badge&logo=xilinx&logoColor=FFD700)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 ### 🌐 Desarrollo Web & Móvil
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular_20-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-1a1a1a?style=for-the-badge&logo=websocket&logoColor=FFD700)
 
 ### 🔧 Herramientas & Plataformas
+![Quartus II](https://img.shields.io/badge/Quartus%20II-1a1a1a?style=for-the-badge&logo=intel&logoColor=FFD700)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-1a1a1a?style=for-the-badge&logo=mentor&logoColor=FFD700)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![MPLAB X IDE](https://img.shields.io/badge/MPLAB%20X%20IDE-FF6600?style=for-the-badge&logo=microchip&logoColor=white)
-![Quartus](https://img.shields.io/badge/Quartus-1a1a1a?style=for-the-badge&logo=intel&logoColor=FFD700)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 

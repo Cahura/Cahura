@@ -9,7 +9,12 @@
 </div>
 
 <div align="center">
-  <a href="README.md">🇪🇸 Español</a> | <a href="README_EN.md">🇺🇸 English</a>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🇪🇸_Español-1a1a1a?style=for-the-badge&logoColor=FFD700&labelColor=0d1117" alt="Español" />
+  </a>
+  <a href="README_EN.md">
+    <img src="https://img.shields.io/badge/🇺🇸_English-FFD700?style=for-the-badge&logoColor=black&labelColor=1a1a1a" alt="English" />
+  </a>
 </div>
 
 ---

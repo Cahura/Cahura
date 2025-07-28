@@ -36,7 +36,7 @@ Estudiante de **Ingeniería Electrónica** en la **Universidad Peruana de Cienci
 <td width="50%">
 <h3 align="center">🔬 Sistema DDS - Direct Digital Synthesis</h3>
 <div align="center">  
-<a href="https://github.com/Cahura/DDS-Direct-Digital-Synthesis" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cahura&repo=DDS-Direct-Digital-Synthesis&theme=dark&border_color=FFD700&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0d1117" alt="DDS System"></a>
+<a href="https://github.com/Cahura/DDS-Direct-Digital-Synthesis" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cahura&repo=DDS-Direct-Digital-Synthesis&theme=dark&border_color=FFD700&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0d1117&cache_seconds=1800" alt="DDS System"></a>
 <br>
 <br>
 <p>
@@ -53,11 +53,11 @@ Estudiante de **Ingeniería Electrónica** en la **Universidad Peruana de Cienci
 <td width="50%">
 <h3 align="center">🐾 Pet Tracker - Sistema IoT Inteligente</h3>
 <div align="center">
-<a href="https://github.com/Cahura/Pet-Tracker" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cahura&repo=Pet-Tracker&theme=dark&border_color=FFD700&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0d1117" alt="Pet Tracker"></a>
+<a href="https://github.com/Cahura/pet-tracker" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cahura&repo=pet-tracker&theme=dark&border_color=FFD700&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0d1117&cache_seconds=1800" alt="Pet Tracker"></a>
 <br>
 <br>
 <p>
-<a href="https://github.com/Cahura/Pet-Tracker" target="_blank">
+<a href="https://github.com/Cahura/pet-tracker" target="_blank">
 <img src="https://img.shields.io/badge/Ver%20Proyecto-FFD700?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
